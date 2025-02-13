@@ -25,4 +25,4 @@
     });
 </script>
 
-<h1 class="pikl-apptitle"><span class="jam jam-home"></span>Home</h1>
+<h1 class="Monkey Math"><span class="jam jam-home"></span>Home</h1>
